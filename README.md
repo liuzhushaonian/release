@@ -1,6 +1,10 @@
 # release
 release官方说明
 
+# 使用方法
+
+[模块激活方法](https://github.com/liuzhushaonian/release/blob/master/Instructions.md)
+
 # 声明
 
 ## 强调一下，本模块并没有看H漫的操作，本模块仅仅用于显示大妈之家那些因版权而屏蔽掉的漫画，如果你想看H漫而使用本模块，不好意思你走错地方了。本模块谢绝智友论坛"一个人的冬季"搬运，请你就此打住，不要再玷污我和我的模块！
